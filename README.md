@@ -14,7 +14,7 @@ Welcome to the Python Project Repository! This repository is dedicated to showca
 ## Technologies Used
 
 - Python 3.x
-- Popular Libraries: (e.g., NumPy, Pandas, Flask, Django, etc.)
+- Popular Libraries: ( NumPy, Pandas, etc.)
 - Testing Frameworks: (e.g., PyTest, Unittest, etc.)
 - Virtual Environment for dependencies
 
