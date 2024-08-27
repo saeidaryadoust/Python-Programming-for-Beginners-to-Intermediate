@@ -34,5 +34,5 @@ Welcome to the Python Project Repository! This repository is dedicated to showca
    ```
 4. Run the project:
    ```bash
-   python Python #.ipynb
+   python # .ipynb
    ```
