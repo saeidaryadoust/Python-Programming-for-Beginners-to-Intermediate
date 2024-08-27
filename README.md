@@ -33,8 +33,4 @@ This repository contains Jupyter Notebook files showcasing various practice exer
 
 Contributions to this repository are welcome! If you have any improvements or new exercises to add, feel free to submit a pull request.
 
-**License:**
 
-This project is licensed under the MIT License.
-
-**Let's learn and explore the power of Python sets together!**
